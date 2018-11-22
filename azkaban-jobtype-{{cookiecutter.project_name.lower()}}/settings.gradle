@@ -1,0 +1,2 @@
+rootProject.name = 'azkaban-jobtype-{{cookiecutter.project_name.lower()}}'
+

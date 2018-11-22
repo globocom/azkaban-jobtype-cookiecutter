@@ -1,0 +1,6 @@
+{
+  "project_name": "Email",
+  "azkaban_version": "3.59.0",
+  "project_short_description":"{{cookiecutter.project_name}} job for Azkaban {{cookiecutter.azkaban_version}}"
+}
+
